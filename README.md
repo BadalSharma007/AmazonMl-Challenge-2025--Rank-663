@@ -184,3 +184,6 @@ The model generalizes well across different product categories and price tiers w
 ### **C. License**
 - All data restricted to official competition dataset.  
 - Code released under **MIT License**, compatible with Apache 2.0.  
+
+![Screenshot 2025-10-12 at 2 40 58 PM](https://github.com/user-attachments/assets/c34a5b9c-f36d-4e87-a972-86f3126a7ee0)
+
